@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bensquared.epicnamegenerator.settings"
+    android:orientation="vertical"
+    android:layout_centerInParent="true"
+    android:layout_centerVertical="true"
+    android:gravity="center"
+    android:background="@drawable/stars">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:text="Here is some info..."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hereIsSomeInfo"
+        android:layout_marginBottom="30dp"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textColor="@color/textColor" />
+
+    <Button
+        android:text="How to"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_borders"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textColor="@android:color/white"
+        android:id="@+id/howTobutton"/>
+
+    <Button
+        android:text="Disclaimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/disclaimerbutton"
+        android:background="@drawable/button_borders"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textColor="@android:color/white"/>
+
+    <Button
+        android:text="About Us"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/aboutbutton"
+        android:background="@drawable/button_borders"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

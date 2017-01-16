@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_us"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.bensquared.epicnamegenerator.aboutUS">
+
+    <TextView
+        android:text="We are college students trying to make a living while we are in college and are trying to sharpen our programming and design skills.  We have the same name and the same ideas.  I say &quot;We&quot;, though only one of us created this app.  We come up with the ideas together and then work with similar apps.  Check out my colleagues Runescape, Call of Duty, and World of Warcraft name generators when they are released.  We are just your not-so-average computer science students."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/aboutUStextviewinAboutus"
+        android:textSize="20sp"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:gravity="center"/>
+</RelativeLayout>

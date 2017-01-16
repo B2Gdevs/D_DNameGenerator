@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011301847714",
+    "firebase_url": "https://bullytoolkit.firebaseio.com",
+    "project_id": "bullytoolkit",
+    "storage_bucket": "bullytoolkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011301847714:android:cd51a9a7ce1b60b3",
+        "android_client_info": {
+          "package_name": "com.bensquared.bullytoolkitagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011301847714-lq8fdajc76vatoql5joq3f9sd6t0ad2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bensquared.bullytoolkitagain",
+            "certificate_hash": "0A37021650A87916134CE9AD126D90F3F263A90E"
+          }
+        },
+        {
+          "client_id": "1011301847714-d1c6t06jcossqvks1bnpu3f48v9g3ia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgj_qvhpdoa88UNkQXa6vXnjl4-CYb4_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011301847714-d1c6t06jcossqvks1bnpu3f48v9g3ia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

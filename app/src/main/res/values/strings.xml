@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Epic D&amp;D Name Generator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2053241401800280/8178260858</string>
+    <string-array name="race">
+        <item>Aasimar</item>
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Firbolg</item>
+        <item>Genasi</item>
+        <item>Gnome</item>
+        <item>Goliath</item>
+        <item>Halfling</item>
+        <item>Half-Elf</item>
+        <item>Half-Orc</item>
+        <item>Human</item>
+        <item>Kenku</item>
+        <item>Lizardfolk</item>
+        <item>Tiefling</item>
+        <item>Aarakocra </item>
+        <item>Changeling</item>
+        <item>Goblin </item>
+        <item>Kor</item>
+        <item>Merfolk </item>
+        <item>Minotaur</item>
+        <item>Shifter</item>
+        <item>Vampire</item>
+        <item>Warforged</item>
+
+    </string-array>
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+        <!--<item>Neither</item>-->
+    </string-array>
+    <string-array name="saved">
+        <item>Male</item>
+        <item>Female</item>
+        <!--<item>Neither</item>-->
+    </string-array>
+</resources>
