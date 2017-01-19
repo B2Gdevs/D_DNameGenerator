@@ -14,7 +14,7 @@ android {
         applicationId "com.bensquared.epicnamegenerator"
         minSdkVersion 21
         targetSdkVersion 25
-        versionCode 1
+        versionCode 10
         versionName "epicdanddnamegenerator"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }

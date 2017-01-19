@@ -7,39 +7,20 @@
 
     <!-- TODO: Update blank fragment layout -->
 
-    <Button
-        android:text="Donate at your leisure"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/upgradeButton"
-        android:layout_gravity="center_horizontal"
-        android:background="@drawable/button_borders"
-        android:textColor="@android:color/white"
-        android:paddingStart="6dp"
-        android:paddingEnd="6dp"
-        android:paddingBottom="2dp"
-        android:paddingTop="2dp"
-        android:layout_marginTop="17dp"
-        android:textSize="15sp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
-
     <TextView
-        android:text="Why: No Reason"
+        android:text="Please just use"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/plainFeatureIdentifier"
         android:visibility="visible"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/upgradeButton"
         android:layout_marginTop="15dp"
         android:textSize="25sp"
         android:layout_marginStart="10dp"
         android:textColor="@color/textColor"/>
 
     <TextView
-        android:text="Really, there is no reason to donate.  Honestly this is just an app that was created as a first design and to train abilities.  Getting used to Android Studio and API's was the purpose of this before more useful apps are created.  Any money though means we can spend more time in to making apps, even clicking on an ad would help."
-        android:layout_height="278dp"
+        android:text="You know, there was going to be a donate button, but that was too hard for me to figure out how to do in this specific way.  After a ton of hours trying to figure out I decided that there is no reason to have a donate button and get money for this app.  If yall could just check out the other apps created by me that would be awesome actually."
         android:id="@+id/featuresText"
         android:layout_gravity="center_vertical"
         android:layout_width="match_parent"
@@ -57,5 +38,5 @@
         android:scrollbars="vertical"
         android:maxLines="100"
         android:textColor="@color/textColor"
-        />
+        android:layout_height="500dp" />
 </RelativeLayout>
